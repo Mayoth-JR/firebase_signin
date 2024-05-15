@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729931733990",
+    "project_id": "temperature-ph-system",
+    "storage_bucket": "temperature-ph-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729931733990:android:6f11b58be2a9304cee1427",
+        "android_client_info": {
+          "package_name": "com.example.temperature_and_ph_monitoring_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKhATEYOsHXHMQFHrlgjLeYR08T_j_qd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
